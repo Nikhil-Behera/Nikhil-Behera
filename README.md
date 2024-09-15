@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, Nikhil here.<br>I'm currently in college 📚,<br>Degree in Computer Science Engineering 💻.<br>Currently:<br>Working on C and C++.<br>Learning web development 🌐.<br>Will be working on projects soon.<br>
+Hey, Nikhil here.<br>I'm currently in college 📚,<br>Pursuing Degree in Computer Science Engineering 💻.<br>Currently:<br>Working on C and C++.<br>Learning web development 🌐.<br>Will be working on projects soon.<br>
 
 
 ## 🌐 Socials:
