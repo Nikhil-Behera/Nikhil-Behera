@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hey, Nikhil here.<br>I'm currently in college 📚,<br>Pursuing Degree in Computer Science Engineering 💻.<br>Currently:<br>Working on C and C++.<br>Learning web development 🌐.<br>Will be working on projects soon.<br>
+Hey, Nikhil here.<br> Currently in college 📚,<br>Pursuing Degree in Computer Science Engineering 💻.<br>Currently:<br>Working on C and C++.<br>Learning web development 🌐.<br>Will be working on projects soon.<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_thenikhilbehera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Nikhil Behera) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_NikhilBehera_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_thenikhilbehera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@NikhilBehera) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_NikhilBehera_) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
