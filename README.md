@@ -1,3 +1,4 @@
+```markdown
 # 💫 About Me
 
 Hey, I’m Nikhil 👋
@@ -17,7 +18,16 @@ I’m a Computer Science Engineering student passionate about systems programmin
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23276DC3.svg?style=for-the-badge&logo=python&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-%2300A7A7.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+
+You can add or remove badges as your skillset evolves. If you'd like different badge styles (flat, plastic, social, etc.) or to include more technologies, tell me which ones and I’ll update the file.
 
 ## 📊 GitHub Stats
 
@@ -42,3 +52,4 @@ I’m a Computer Science Engineering student passionate about systems programmin
 [![](https://visitcount.itsvg.in/api?id=Nikhil-Behera&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
