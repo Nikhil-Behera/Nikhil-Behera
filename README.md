@@ -19,6 +19,9 @@ I’m a Computer Science Engineering student passionate about systems programmin
 ![Python](https://img.shields.io/badge/Python-%23276DC3.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend & Backend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-%2300A7A7.svg?style=for-the-badge&logo=leaflet&logoColor=white)
